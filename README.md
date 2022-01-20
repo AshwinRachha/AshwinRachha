@@ -38,11 +38,11 @@ I am open for internship opportunities starting in the summer of 2022. Please fe
 
 
 ## Languages 
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
+<span><img src="https://img.icons8.com/color/48/000000/python.png"/></span>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 ## Deep Learning Frameworks
-<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<span><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></span>
 <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-machine-learning-fintech-becris-lineal-color-becris.png"/>
 
 
