@@ -42,7 +42,6 @@ I am open for internship opportunities starting in the summer of 2022. Please fe
 <span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></span>
 
 ## Deep Learning Frameworks
-<span><img src="https://mpng.subpng.com/20180528/yub/kisspng-pytorch-deep-learning-natural-language-processing-parallel-computing-5b0bff84e2ba63.6819279915275129649287.jpg"/></span>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
 <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-machine-learning-fintech-becris-lineal-color-becris.png"/>
 
