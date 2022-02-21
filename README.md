@@ -30,7 +30,7 @@ I am a Master's in Computer Science (MS Thesis) student at Virginia Tech. My int
 
 I am a Kaggle Notebooks experts and enjoy writing code related to Data Science, NLP and CV competitions. You can checkout my work and kaggle profile  <a href="https://www.kaggle.com/ashwinrachha1"> here  </a> and my newest kaggle notebook contribution here <a href="https://www.kaggle.com/ashwinrachha1/finding-similar-question-pairs"> here  </a>.
 
-I love solving Data Structures and Algorithms related problems and frequenty blog about them. Please checkout my  <a href="https://www.kaggle.com/ashwinrachha1/finding-similar-question-pairs">  Leetcode Solutions Blog.   </a>.
+I love solving Data Structures and Algorithms related problems and frequenty blog about them. Please checkout my  <a href="https://github.com/AshwinRachha/LeetCode-Solutions">  Leetcode Solutions Blog.   </a>.
 
 Alternatively I also love elucidating Machine Learning and Deep learning concepts and code and as a Result I blog about any new thing I am working on in Machine Learning or Deep learning and you can find the blogpost articles <a href="https://ashwinrachha.github.io/blogpost/"> here </a>. 
 
